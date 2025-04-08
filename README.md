@@ -1,4 +1,4 @@
-### Hi there 👋
+### Experienced React Native developer specializing in mobile app development for iOS and Android. Known for delivering high-quality, scalable apps with clean code and strong UI/UX. As a freelancer, I’m passionate about helping clients bring their ideas to life and solving real-world problems through intuitive mobile experiences. Always eager to collaborate, learn, and build impactful products
 
 <!--
 **udayarajurs/udayarajurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
